@@ -9,7 +9,7 @@
 - 🌱 Currently learning about microservice
 - 🔨 Developer of web applications
 - 📕📙📘📗 Hobby is reading novels
-- 💤 LeetCode ... LeetCode ...
+- 💤 Algorithm... LeetCode...
 
 ---
 
