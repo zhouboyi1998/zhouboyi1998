@@ -8,7 +8,7 @@
 - 🔭 Currently working on Guangzhou
 - 🌱 Currently learning about microservice
 - 🔨 Developer of web applications
-- 📕📙📘📗 Hobby is reading novels
+- 📕📗📙📘 Hobby is reading novels
 - 💤 Algorithm... LeetCode...
 
 ---
