@@ -4,14 +4,14 @@
 
 <h3 align="center">I'm zhouboyi 💨 a Java Developer from China</h3>
 
-<div align="center" style="margin-top: 40px; margin-right: 40px;">
-<span>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhouboyi1998&include_all_commits=true&count_private-true&custom_title=zhouboyi1998'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-</span>
-<span style="margin-top: 40px; margin-left: 40px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouboyi1998&layout=compact&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-</span>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouboyi1998&layout=compact&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+
+- 🔎 Focusing on Java
+- 🔭 Currently working on Guangzhou
+- 🌱 Currently learning about microservice
+- 🔨 Developer of web applications
+- 📕📙📘📗 Hobby is reading novels
+- 💤 LeetCode ... LeetCode ...
 
 ---
 
@@ -39,10 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
-<div align="center">
-<img src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
-</div>
-
 <div align="center" style="margin-top: 40px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhouboyi1998&include_all_commits=true&count_private-true&custom_title=zhouboyi1998%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhouboyi1998">
 </div>
