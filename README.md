@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm zhouboyi 💨 a Java Developer from China</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouboyi1998&layout=compact&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouboyi1998&layout=compact&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 - 🔎 Focusing on Java
 - 🔭 Currently working on Guangzhou
@@ -16,7 +16,7 @@
 <h3 align="center">Learning...</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
